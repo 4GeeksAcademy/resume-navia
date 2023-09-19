@@ -9,19 +9,11 @@ basic_info:
 
   focus: Retain information as best as I CAN.
 
-  summary: I am currently in property management and I am going to school for Full stack development. 
-
+  summary: I am currently in property management and I am going to school for Full stack development.
 
   email: nmatute88@gmail.com
 
   github: NaviaMatute1988
-
-  languages:
-    - idiom: English
-      level: Native
-
-   - idiom: Spanish
-      level: Intermediate
 
   interests:
     - item: Ministering to the Youth
@@ -36,20 +28,18 @@ experiences:
     company: Link Designs
 
 skills:
-    toolset:
+  toolset:
+    - name: Javascript
+      level: 20%
 
-      - name: Javascript
-        level: 20%
+    - name: React
+      level: 70%
 
-      - name: React
-        level: 70%
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: Bootstrap
+      level: 85%
 
-      - name: Bootstrap
-        level: 85%
-
-      - name: Git
-        level: 40%
-
+    - name: Git
+      level: 40%
